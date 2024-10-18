@@ -1,0 +1,19 @@
+/* загальний файл глобальних стилів */
+
+:root {
+    --primary-text-color:#212121;
+    --secondary-text-color:#757575;
+    --title-text-color:#FFFFFF;
+    --accent-color: #2196F3;
+    --primary-white-color:white;
+    --secondary-section-color:#F5F4FA;
+}
+
+ul{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color:var(--primary-text-color);
+}

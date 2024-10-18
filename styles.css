@@ -1,0 +1,52 @@
+/* heder styles */
+.header{
+border-radius: 1px;
+border: 1px solid #ECECEC;
+}
+
+.nav-item{
+font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16.41px;
+letter-spacing: 0.02em;
+text-align: left;   
+}
+.nav-item:hover,
+.nav-item:focus {
+color: var(--accent-color);
+}
+
+ /* main styles */
+.herro{
+background-image: url(./img/title/bg-img.jpg);
+opacity: 0.6;
+}
+.hero-tytle{
+color: var(--title-text-color);
+}
+
+ /* footer styles */
+
+.footer {
+background-color: #2F303A;
+}
+.address-map{
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: var(--primary-white-color);
+}
+.address-item{
+   font-family: Roboto;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 24px;
+   letter-spacing: 0.03em;
+   text-align: left;
+   color: #FFFFFF99;
+
+}
